@@ -6,6 +6,24 @@
 [![Firebase](https://img.shields.io/badge/Backend-Firebase%20Firestore-FFCA28?logo=firebase)](https://firebase.google.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
+---
+
+### 📲 Download & Try the App (Direct APK)
+
+<p align="center">
+  <a href="https://github.com/ssukivarsan-prog/BIZ-HACK-26/raw/main/release/FreshVeg.apk">
+    <img src="https://img.shields.io/badge/DOWNLOAD_APK-FreshVeg_v1.0.0-2E7D32?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" height="50"/>
+  </a>
+</p>
+
+> ### 🚀 **[👉 CLICK HERE TO DOWNLOAD FreshVeg.apk (v1.0.0) 👈](https://github.com/ssukivarsan-prog/BIZ-HACK-26/raw/main/release/FreshVeg.apk)**
+> 
+> 📦 **File:** [`release/FreshVeg.apk`](https://github.com/ssukivarsan-prog/BIZ-HACK-26/raw/main/release/FreshVeg.apk) (Release Build • 66 MB)  
+> 📱 **Compatibility:** Android 7.0+ (API 24+)  
+> ⚡ **Quick Install:** Download the `.apk` directly to your phone, tap **Install**, and explore both Farmer and Customer workflows immediately.
+
+---
+
 A production-ready, direct farmer-to-buyer mobile marketplace built for **PS67**. FreshVeg eliminates middlemen by empowering farmers to list produce with harvest details, price per unit, and quantities, while enabling buyers to browse, filter, place purchase requests, track deliveries, and pre-book future harvests directly with specific local farmers.
 
 ---
@@ -167,8 +185,9 @@ Run in debug mode on your connected device or emulator:
 flutter run
 ```
 
-### 6. Build APK (Android)
-To generate an installable Android APK:
+### 6. Build or Download APK (Android)
+- **Direct Download**: Grab the pre-built release APK directly from [`release/FreshVeg.apk`](https://github.com/ssukivarsan-prog/BIZ-HACK-26/raw/main/release/FreshVeg.apk).
+- **Manual Build**:
 ```bash
 # Debug APK
 flutter build apk --debug
@@ -176,8 +195,8 @@ flutter build apk --debug
 # Release APK
 flutter build apk --release
 ```
-The compiled APK will be located at:
-`build/app/outputs/flutter-apk/app-debug.apk`
+The compiled output will be located at:
+`build/app/outputs/flutter-apk/app-release.apk`
 
 ---
 
