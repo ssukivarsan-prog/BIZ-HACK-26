@@ -35,14 +35,27 @@ A production-ready, direct farmer-to-buyer mobile marketplace built for **PS67**
 
 | Screen | Description | Screenshot |
 | :--- | :--- | :---: |
-| **1. Vendor Dashboard** | Overview of store statistics, pending orders, delivered count, and total revenue. | ![Vendor Dashboard](screenshots/vendor/vendor_1_dashboard.png) |
-| **2. Inventory Management** | Real-time stock tracking with quick toggle for availability and stock counts. | ![Inventory Management](screenshots/vendor/vendor_2_inventory.png) |
-| **3. Add Produce Listing** | Create new produce with crop type, quantity (kg), unit price, harvest date, and photo. | ![Add Produce Listing](screenshots/vendor/vendor_3_add_produce.png) |
-| **4. Produce Intelligence Card** | Detailed crop breakdown with price recommendation, demand analysis, and buyer matching. | ![Produce Intelligence](screenshots/vendor/vendor_4_market_intelligence.png) |
-| **5. Market Demand Grades** | Real-time demand classification (`HIGH DEMAND`, `MODERATE`, `LOW`) computed from live customer pre-bookings. | ![Market Demand Grades](screenshots/vendor/vendor_5_demand_grades.png) |
-| **6. Customer Pre-Booking Requests** | Incoming customer-specific booking requests with requested kg, delivery address, and target harvest date. | ![Customer Requests](screenshots/vendor/vendor_6_customer_requests.png) |
-| **7. Confirm Delivery Reach** | Interactive farmer response dialog allowing vendors to confirm where and when they can deliver. | ![Confirm Delivery](screenshots/vendor/vendor_7_confirm_delivery.png) |
-| **8. Sales Analytics & History** | Comprehensive sales history, order stages (`pending` → `delivered`), and revenue tracking. | ![Sales Analytics](screenshots/vendor/vendor_8_sales_analytics.png) |
+| **1. Vendor Dashboard** | Overview of store statistics, pending orders, delivered count, and total revenue. | <img src="screenshots/vendor/vendor_1.jpeg" width="220" alt="Vendor Dashboard"/> |
+| **2. Inventory Management** | Real-time stock tracking with quick toggle for availability and stock counts. | <img src="screenshots/vendor/vendor_2.jpeg" width="220" alt="Inventory Management"/> |
+| **3. Add Produce Listing** | Create new produce with crop type, quantity (kg), unit price, harvest date, and photo. | <img src="screenshots/vendor/vendor_3.jpeg" width="220" alt="Add Produce Listing"/> |
+| **4. Produce Intelligence Card** | Detailed crop breakdown with price recommendation, demand analysis, and buyer matching. | <img src="screenshots/vendor/vendor_4.jpeg" width="220" alt="Produce Intelligence"/> |
+| **5. Market Demand Grades** | Real-time demand classification (`HIGH DEMAND`, `MODERATE`, `LOW`) computed from live customer pre-bookings. | <img src="screenshots/vendor/vendor_5.jpeg" width="220" alt="Market Demand Grades"/> |
+| **6. Customer Pre-Booking Requests** | Incoming customer-specific booking requests with requested kg, delivery address, and target harvest date. | <img src="screenshots/vendor/vendor_6.jpeg" width="220" alt="Customer Requests"/> |
+| **7. Confirm Delivery Reach** | Interactive farmer response dialog allowing vendors to confirm where and when they can deliver. | <img src="screenshots/vendor/vendor_7.jpeg" width="220" alt="Confirm Delivery"/> |
+| **8. Sales Analytics & History** | Comprehensive sales history, order stages (`pending` → `delivered`), and revenue tracking. | <img src="screenshots/vendor/vendor_8.jpeg" width="220" alt="Sales Analytics"/> |
+
+<p align="center">
+  <img src="screenshots/vendor/vendor_1.jpeg" width="22%" />
+  <img src="screenshots/vendor/vendor_2.jpeg" width="22%" />
+  <img src="screenshots/vendor/vendor_3.jpeg" width="22%" />
+  <img src="screenshots/vendor/vendor_4.jpeg" width="22%" />
+</p>
+<p align="center">
+  <img src="screenshots/vendor/vendor_5.jpeg" width="22%" />
+  <img src="screenshots/vendor/vendor_6.jpeg" width="22%" />
+  <img src="screenshots/vendor/vendor_7.jpeg" width="22%" />
+  <img src="screenshots/vendor/vendor_8.jpeg" width="22%" />
+</p>
 
 ---
 
@@ -50,14 +63,27 @@ A production-ready, direct farmer-to-buyer mobile marketplace built for **PS67**
 
 | Screen | Description | Screenshot |
 | :--- | :--- | :---: |
-| **1. Customer Home & Categories** | Browse fresh produce categorized by Root, Leafy, Gourds, etc., with dynamic search. | ![Customer Home](screenshots/user/user_1_home_browse.png) |
-| **2. High Demand Spotlight** | Live carousel spotlighting trending produce driven by real-time customer pre-booking volume. | ![High Demand Spotlight](screenshots/user/user_2_high_demand.png) |
-| **3. Produce Details & Stock** | Product detail page with unit price, available stock slider, and instant cart actions. | ![Produce Details](screenshots/user/user_3_produce_detail.png) |
-| **4. Farmer & Freshness Selection** | Customer chooses a specific farmer based on harvest freshness description, distance, and ratings. | ![Farmer Selection](screenshots/user/user_4_farmer_selection.png) |
-| **5. Advance Pre-Booking Sheet** | Advance harvest request sheet with quantity chips, customer delivery address, and date picker. | ![Pre-Booking Sheet](screenshots/user/user_5_pre_booking_sheet.png) |
-| **6. Cart & Purchase Request** | Review selected produce, specify delivery location, and submit purchase requests. | ![Cart & Checkout](screenshots/user/user_6_cart_checkout.png) |
-| **7. Order Tracking Stages** | Live 4-stage visual progress tracker (`Pending` → `Confirmed` → `Out for Delivery` → `Delivered`). | ![Order Tracking](screenshots/user/user_7_order_tracking.png) |
-| **8. My Pre-Bookings Status** | Track advance booking status and view the farmer's delivery confirmation response note. | ![My Pre-Bookings](screenshots/user/user_8_my_pre_bookings.png) |
+| **1. Customer Home & Categories** | Browse fresh produce categorized by Root, Leafy, Gourds, etc., with dynamic search. | <img src="screenshots/user/user_1.jpeg" width="220" alt="Customer Home"/> |
+| **2. High Demand Spotlight** | Live carousel spotlighting trending produce driven by real-time customer pre-booking volume. | <img src="screenshots/user/user_2.jpeg" width="220" alt="High Demand Spotlight"/> |
+| **3. Produce Details & Stock** | Product detail page with unit price, available stock slider, and instant cart actions. | <img src="screenshots/user/user_3.jpeg" width="220" alt="Produce Details"/> |
+| **4. Farmer & Freshness Selection** | Customer chooses a specific farmer based on harvest freshness description, distance, and ratings. | <img src="screenshots/user/user_4.jpeg" width="220" alt="Farmer Selection"/> |
+| **5. Advance Pre-Booking Sheet** | Advance harvest request sheet with quantity chips, customer delivery address, and date picker. | <img src="screenshots/user/user_5.jpeg" width="220" alt="Pre-Booking Sheet"/> |
+| **6. Cart & Purchase Request** | Review selected produce, specify delivery location, and submit purchase requests. | <img src="screenshots/user/user_6.jpeg" width="220" alt="Cart & Checkout"/> |
+| **7. Order Tracking Stages** | Live 4-stage visual progress tracker (`Pending` → `Confirmed` → `Out for Delivery` → `Delivered`). | <img src="screenshots/user/user_7.jpeg" width="220" alt="Order Tracking"/> |
+| **8. My Pre-Bookings Status** | Track advance booking status and view the farmer's delivery confirmation response note. | <img src="screenshots/user/user_8.jpeg" width="220" alt="My Pre-Bookings"/> |
+
+<p align="center">
+  <img src="screenshots/user/user_1.jpeg" width="22%" />
+  <img src="screenshots/user/user_2.jpeg" width="22%" />
+  <img src="screenshots/user/user_3.jpeg" width="22%" />
+  <img src="screenshots/user/user_4.jpeg" width="22%" />
+</p>
+<p align="center">
+  <img src="screenshots/user/user_5.jpeg" width="22%" />
+  <img src="screenshots/user/user_6.jpeg" width="22%" />
+  <img src="screenshots/user/user_7.jpeg" width="22%" />
+  <img src="screenshots/user/user_8.jpeg" width="22%" />
+</p>
 
 ---
 
