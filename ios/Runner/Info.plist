@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Merge these keys into your existing ios/Runner/Info.plist
+  (or replace the file entirely if starting fresh)
+-->
+<plist version="1.0">
+<dict>
+    <!-- App display name -->
+    <key>CFBundleName</key>
+    <string>FreshVeg</string>
+    <key>CFBundleDisplayName</key>
+    <string>FreshVeg</string>
+
+    <!-- Required for Firebase / networking -->
+    <key>NSAppTransportSecurity</key>
+    <dict>
+        <key>NSAllowsArbitraryLoads</key>
+        <true/>
+    </dict>
+
+    <!-- Camera permission -->
+    <key>NSCameraUsageDescription</key>
+    <string>FreshVeg needs camera access to take photos of vegetables.</string>
+
+    <!-- Photo library permission -->
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>FreshVeg needs photo library access to select vegetable images.</string>
+
+    <!-- Push notifications -->
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>remote-notification</string>
+    </array>
+
+    <!-- Location (optional — for address autofill) -->
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>FreshVeg can use your location to suggest a delivery address.</string>
+
+    <!-- Flutter -->
+    <key>io.flutter.embedded_views_preview</key>
+    <string>YES</string>
+    <key>CADisableMinimumFrameDurationOnPhone</key>
+    <true/>
+    <key>UIApplicationSupportsIndirectInputEvents</key>
+    <true/>
+</dict>
+</plist>
